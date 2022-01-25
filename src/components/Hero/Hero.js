@@ -15,9 +15,9 @@ const Hero = (props) => (
         Hi, <br />
         I'm Jin and <br />
         Welcome to <br />
-        My Personal Portfolio
+        My Personal Webpage
       </SectionTitle>
-      <SectionText>I'm developing websites and apps</SectionText>
+      <SectionText>I build interactive websites and applications</SectionText>
       <Button onClick={() => (window.location = 'https://github.com/SJinKim')}>
         Learn More
       </Button>

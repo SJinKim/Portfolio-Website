@@ -68,7 +68,10 @@ const Timeline = () => {
       <br />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        How did I start Coding, what are my big milestones...etc
+        My name is Jin and i'm a self-taught web engineer. Currently studying as
+        "Informationssytemtechnik" student at TU Darmstadt. The creativity and
+        complexity of webdevelopment was fascinating and that was my start of my
+        "web-journey".
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

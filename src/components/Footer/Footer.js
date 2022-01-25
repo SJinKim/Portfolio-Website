@@ -20,7 +20,7 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
-          <LinkItem href='tel:111-111-111'>1111-111-111</LinkItem>
+          <LinkItem href='tel:017631151640'>0176 31151640</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
@@ -31,7 +31,10 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Innovation one project at a time</Slogan>
+          <Slogan>
+            In a quest for always keeping myself updated, I read books and start
+            projects after another.
+          </Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href='https://github.com'>
