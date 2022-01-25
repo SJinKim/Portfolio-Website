@@ -33,7 +33,7 @@ export const projects = [
     title: 'Reminder App',
     description:
       'Using React-Native and Firebase, people can login to this countdown app. A simple countdown app, where login is possible.',
-    image: '/images/5.jpg',
+    image: '/images/5.JPG',
     tags: ['React-Native', 'Firebase'],
     source: 'https://github.com/SJinKim/QT-Reminder-App',
     visit: 'https://expo.dev/@jin1207/QT-App',
