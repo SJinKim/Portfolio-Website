@@ -1,3 +1,5 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+[visit website](https://portfolio-website-r8hrx6p7x-sjinkim.vercel.app/)
+
+![Portfolio Website](public/images/personalWebsite.png)
