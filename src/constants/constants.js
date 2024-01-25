@@ -50,6 +50,10 @@ export const TimeLineData = [
   },
   {
     year: 2022,
-    text: 'Worked as Webdeveloper at Below GmbH.',
+    text: 'Worked as Web Developer at Below GmbH.',
+  },
+  {
+    year: 2023,
+    text: 'Working as Software Developer at EY',
   },
 ]
