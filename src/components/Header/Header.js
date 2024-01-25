@@ -3,15 +3,7 @@ import React from 'react'
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai'
 import { DiCssdeck } from 'react-icons/di'
 
-import {
-  Container,
-  Div1,
-  Div2,
-  Div3,
-  NavLink,
-  SocialIcons,
-  Span,
-} from './HeaderStyles'
+import { Container, Div1, Div2, Div3, NavLink, SocialIcons, Span } from './HeaderStyles'
 
 const Header = () => (
   <Container>
@@ -24,7 +16,7 @@ const Header = () => (
             color: 'white',
           }}
         >
-          <DiCssdeck size='3rem' /> <Span>Portfolio</Span>
+          <DiCssdeck size='3rem' /> <Span>SeungJin Kim</Span>
         </a>
       </Link>
     </Div1>
