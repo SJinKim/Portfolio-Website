@@ -24,26 +24,23 @@ const Footer = () => {
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href='mailto:kim.seungjin1207@gmail.com'>
-            kim.seungjin1207@gmail.com
-          </LinkItem>
+          <LinkItem href='mailto:kim.seungjin1207@gmail.com'>kim.seungjin1207@gmail.com</LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
           <Slogan>
-            In a quest for always keeping myself updated, I read books and start
-            projects after another.
+            In a quest for always keeping myself updated, I read books and start projects after another.
           </Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href='https://github.com'>
+          <SocialIcons href='https://github.com/SJinKim/'>
             <AiFillGithub size='3rem' />
           </SocialIcons>
-          <SocialIcons href='https://linkedin.com'>
+          <SocialIcons href='https://www.linkedin.com/in/seung-jin-kim-4740b7211/'>
             <AiFillLinkedin size='3rem' />
           </SocialIcons>
-          <SocialIcons href='https://instagram.com'>
+          <SocialIcons href='#'>
             <AiFillInstagram size='3rem' />
           </SocialIcons>
         </SocialContainer>
