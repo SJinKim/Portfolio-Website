@@ -58,10 +58,12 @@ const Timeline = () => {
       <SectionDivider />
       <br />
       <SectionTitle>About Me</SectionTitle>
-      <SectionText>
-        My name is Jin and i'm a self-taught web engineer. Currently studying as "Informatik" student at TU
-        Darmstadt. The creativity and complexity of Web-Development was fascinating and that was my start of
-        my "web-journey".
+      <SectionText className='aboutMeText'>
+        My name is Seung Jin Kim (short: Jin), and I am currently pursuing a degree in Computer Science at TU
+        Darmstadt. Through hands-on experiences gained in various projects during my tenure as a working
+        student, I have cultivated robust skills in both front-end and back-end development. My expertise
+        spans across modern programming languages such as JavaScript, Python, and Java, and I am well-versed
+        in working with frameworks like React.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

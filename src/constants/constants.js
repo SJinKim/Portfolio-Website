@@ -42,7 +42,7 @@ export const projects = [
 ]
 
 export const TimeLineData = [
-  { year: 2016, text: 'Started university' },
+  { year: 2016, text: 'Starting university at TU Darmstadt' },
   { year: 2019, text: 'Started my web-journey by building diverse web apps' },
   {
     year: 2021,
@@ -50,10 +50,10 @@ export const TimeLineData = [
   },
   {
     year: 2022,
-    text: 'Worked as Web Developer at Below GmbH.',
+    text: 'Worked as working student Web Developer at Below GmbH.',
   },
   {
     year: 2023,
-    text: 'Working as Software Developer at EY',
+    text: 'Working as working student (Software Developer) at EY',
   },
 ]
